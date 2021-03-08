@@ -1,13 +1,13 @@
 import React from "react";
 
-import Home from './Home';
+import FetchComponent from './FetchComponent';
 
 import './App.css';
 
 function App() {
   return (
     <>
-     <Home/>
+     <FetchComponent/>
     </>
   );
 }
