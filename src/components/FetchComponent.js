@@ -29,7 +29,7 @@ const FetchComponent = () => {
 
   return (
     <>
-      <h2> Fetch Countries Component </h2>
+      <h2> Countries Component </h2>
        {results}
     </>
   )
